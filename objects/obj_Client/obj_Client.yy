@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "spr_GMS2MMSRoom",
-    "path": "sprites/spr_GMS2MMSRoom/spr_GMS2MMSRoom.yy",
+    "name": "spr_Client",
+    "path": "sprites/spr_Client/spr_Client.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_GMS2Trigger",
-    "path": "objects/obj_GMS2Trigger/obj_GMS2Trigger.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,7 +20,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_Client","path":"objects/obj_Client/obj_Client.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Client","path":"objects/obj_Client/obj_Client.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +31,7 @@
     "path": "folders/Objects/GMS2MetrovaniaMapSystem/Example.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_GMS2Room",
+  "name": "obj_Client",
   "tags": [],
   "resourceType": "GMObject",
 }
