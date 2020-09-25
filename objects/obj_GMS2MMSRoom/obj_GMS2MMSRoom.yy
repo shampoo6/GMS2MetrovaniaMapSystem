@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Example",
-    "path": "folders/Objects/GMS2MetrovaniaMapSystem/Example.yy",
+    "name": "GMS2MetrovaniaMapSystem",
+    "path": "folders/Objects/GMS2MetrovaniaMapSystem.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_GMS2Room",
+  "name": "obj_GMS2MMSRoom",
   "tags": [],
   "resourceType": "GMObject",
 }

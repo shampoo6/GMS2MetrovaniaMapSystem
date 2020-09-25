@@ -1,16 +1,16 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-rooms = array_create(instance_number(obj_GMS2Room));
+rooms = array_create(instance_number(obj_GMS2MMSRoom));
 
 camera.target = target;
 
-// 查询所有 obj_GMS2Room 对象实例
-for (var i = 0; i < instance_number(obj_GMS2Room); ++i;) {
-	rooms[i] = instance_find(obj_GMS2Room, i);
+// 查询所有 obj_GMS2MMSRoom 对象实例
+for (var i = 0; i < instance_number(obj_GMS2MMSRoom); ++i;) {
+	rooms[i] = instance_find(obj_GMS2MMSRoom, i);
 }
 
-for (var i = 0; i < instance_number(obj_GMS2Room); ++i;) {
+for (var i = 0; i < instance_number(obj_GMS2MMSRoom); ++i;) {
 	var ins = array_get(rooms, i);
 	// 设置目标
 	ins.target = target;

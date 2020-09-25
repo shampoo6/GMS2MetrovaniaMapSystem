@@ -19,7 +19,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_MMSGameController","path":"objects/obj_MMSGameController/obj_MMSGameController.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":10,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_MMSGameController","path":"objects/obj_MMSGameController/obj_MMSGameController.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":77,"eventType":10,"collisionObjectId":null,"parent":{"name":"obj_MMSGameController","path":"objects/obj_MMSGameController/obj_MMSGameController.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":70,"eventType":10,"collisionObjectId":null,"parent":{"name":"obj_MMSGameController","path":"objects/obj_MMSGameController/obj_MMSGameController.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":76,"eventType":10,"collisionObjectId":null,"parent":{"name":"obj_MMSGameController","path":"objects/obj_MMSGameController/obj_MMSGameController.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
